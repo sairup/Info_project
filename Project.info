@@ -1,6 +1,9 @@
 This project is to develop a new API that serves CCPA act.
 The new api's to be developed are Member portal & Member usage.
-The storage of data to be used is Oracle.
+<<<<<<< HEAD
+The storage of data to be used Cassandra.
 The Cloud to be used is AWS.
+=======
+>>>>>>> parent of f74df1e... Project Info on Database details updated
 More detailed info on this project will be uploaded soon.
 
