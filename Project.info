@@ -3,6 +3,7 @@ The new api's to be developed are Member portal & Member usage.
 <<<<<<< HEAD
 The storage of data to be used Cassandra.
 The Cloud to be used is AWS.
+The server to be used on AWS are RHEL & Amazon Linux.
 =======
 >>>>>>> parent of f74df1e... Project Info on Database details updated
 More detailed info on this project will be uploaded soon.
